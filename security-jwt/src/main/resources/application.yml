@@ -1,0 +1,5 @@
+server:
+  port: 80
+  
+jwt:
+  securedKey: asasaasdkaskkasdas=ds=ad-as-da=sddasdodp1kdp1md12dm12dm1dmsmdasdmalsdlas;c  
